@@ -174,7 +174,7 @@
                 android:layout_marginRight="24dp"
                 android:layout_marginLeft="24dp"
                 android:onClick="addTwoTeamB"
-                android:text="@string/twoPointConversion"
+                android:text="@string/safetyPoints"
                 android:textColor="@color/buttonTextColor"
                 />
 
